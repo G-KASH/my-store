@@ -9,6 +9,6 @@ The current HTML structure already includes `<img>` tags within each product car
 For example, if you have an image named `product1.jpg` in the same directory as your HTML file, you would modify the first product card like this:
 
 
-![Screenshot](screenshot-one.png)
+![Screenshot](store-one.png)
 
-![Screenshot](screenshot-two.png)
+![Screenshot](store-two.png)
